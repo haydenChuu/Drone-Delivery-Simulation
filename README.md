@@ -1,5 +1,5 @@
 # 3081W Final Project
-Team 010-05: Ethan Do [do000150], Hayden Chu [chu00161]
+Team 010-05: Hayden Chu [chu00161], Ethan Do [do000150]
 
 ## Overview
 
