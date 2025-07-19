@@ -202,7 +202,7 @@ By working in 2 (14-day) and 1(7-day) sprints, we planned and managed our time w
 ## DOCKER LINK
 
 Instructions inside the link!
-https://hub.docker.com/repository/docker/chuhayden11/final_drone_sim/general
+https://hub.docker.com/r/chuhayden11/final_drone_sim
 
 ## YOUTUBE VIDEO
 
